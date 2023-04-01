@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Header](./github-header-image.png "Header")](https://some-url.dev/)
+[![Header](./github-header-image(1).png "Header")](https://some-url.dev/)
 
 <!--
 **xanecu/xanecu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
