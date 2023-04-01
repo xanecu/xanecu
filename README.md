@@ -1,7 +1,7 @@
 [![Header](./github-header-image(1).png "Header")](https://alex4bastos4.pt/)
 
 
-<br/>
+-------------------------
 
 <p align="center">
     <a href="https://twitter.com/Colin_But"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
@@ -9,7 +9,7 @@
     <a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
 </p>
 
-<br/>
+
 
 # Hi there! <img src="https://raw.githubusercontent.com/xanecu/xanecu/master/wave.gif" width="30px">
 
