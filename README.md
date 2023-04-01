@@ -1,7 +1,7 @@
 [![Header](./github-header-image(1).png "Header")](https://some-url.dev/)
 
 
-<center>--------------------------<center/>
+--------------------------
 
 
 ### Hi there 👋
