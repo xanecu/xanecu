@@ -9,6 +9,8 @@
     <a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
 </p>
 
+<br/>
+
 # Hi there! <img src="https://raw.githubusercontent.com/xanecu/xanecu/master/wave.gif" width="30px">
 
 <br/>
