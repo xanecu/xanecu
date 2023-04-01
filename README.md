@@ -1,8 +1,7 @@
-<p align="center">
 [![Header](./github-header-image(1).png "Header")](https://alex4bastos4.pt/)
-</p>
 
--------------------------
+
+<br/>
 
 <p align="center">
     <a href="https://twitter.com/Colin_But"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
