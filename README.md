@@ -3,11 +3,11 @@
 
 <br/>
 
-<div style="text-align: center;">
+<p align="center">
     <a href="https://twitter.com/Colin_But"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
     <a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
     <a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
-</div>
+</p>
 
 # Hi there! <img src="https://raw.githubusercontent.com/xanecu/xanecu/master/wave.gif" width="30px">
 
