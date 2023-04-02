@@ -50,6 +50,7 @@ You can always contact me through <a href="https://www.linkedin.com/in/alexandre
         <td>Cloud Computing</td>
         <td>
             <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
