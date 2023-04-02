@@ -139,12 +139,12 @@ You can always contact me through <a href="https://www.linkedin.com/in/alexandre
 
 
  <a href="https://github.com/xanecu/xanecu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanecu&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanecu&theme=dark" />
 </a>       
  
 
 <a href="https://github.com/xanecu/xanecu">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xanecu&theme=dark" alt="Alex's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xanecu&theme=dark" alt="Alex's GitHub Stats" />
 </a>
  
 
