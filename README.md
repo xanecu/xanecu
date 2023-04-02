@@ -28,8 +28,10 @@ You can always contact me through <a href="https://www.linkedin.com/in/alexandre
     <tr>
         <td>
         </td>
-        <td style="text-align:center;">
-            dsadsadsadsadsadsa
+        <td>
+            <p align="center">
+                dsadsadsadsadsadsa
+            </p>
         </td>
     </tr>
     <tr>
