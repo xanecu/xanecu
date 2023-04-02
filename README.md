@@ -1,11 +1,7 @@
 [![Header](./github-header-image(1).png "Header")](https://alex4bastos4.pt/)
 
-#
-<br/>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/alexandre-bastos-334b261b0/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-    <a href="mailto:xanecu@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 </p>
 
 
