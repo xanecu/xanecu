@@ -1,9 +1,12 @@
 [![Header](./github-header-image(1).png "Header")](https://alex4bastos4.pt/)
 
+
 <p align="center">
     <a href="https://www.linkedin.com/in/alexandre-bastos-334b261b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <a href="mailto:xanecu@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     <a href="https://www.alex4bastos4.pt" ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    
+    <a href="discord://discordapp.com/users/xanecu#8864"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 
