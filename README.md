@@ -18,7 +18,7 @@ You can always contact me through <a href="https://www.linkedin.com/in/alexandre
 
 <br/>
 
-## 🔧 Toolset
+## 🔧 Technologies & Tools
 
 <table>
     <tr>
