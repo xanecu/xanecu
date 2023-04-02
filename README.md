@@ -30,7 +30,7 @@ You can always contact me through <a href="https://www.linkedin.com/in/alexandre
         </td>
         <td>
             <p align="center">
-                <-----From highly known              To barely touched----->
+                <-----Highly known              Barely touched----->
             </p>
         </td>
     </tr>
