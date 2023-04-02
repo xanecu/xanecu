@@ -18,7 +18,7 @@ Hey! I'm Alexandre 😄, a portuguese/spanish graduated Software Developer and C
 
 I've always been passionate about technology and automation as a tool to solve problems for our society, believing that it is the best way to accomplish adaptive success on our evolution along the way, together with many other brilliant minds, as a team ⚡.
 
-You can always contact me through <a href="https://www.linkedin.com/in/alexandre-bastos-334b261b0/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10" height="10"/></a> or <a href="mailto:xanecu@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="10" height="10"/></a>
+You can always contact me through <a href="https://www.linkedin.com/in/alexandre-bastos-334b261b0/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/></a> or <a href="mailto:xanecu@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20" height="20"/></a>
 
 <br/>
 
