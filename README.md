@@ -30,7 +30,7 @@ You can always know more or even contact me through <a href="https://www.linkedi
         </td>
         <td>
             <p align="center">
-                <b><-----Highly known       //       Barely touched-----></b>
+                <b><-----Well known       //       Barely touched-----></b>
             </p>
         </td>
     </tr>
