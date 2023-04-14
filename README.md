@@ -114,7 +114,8 @@ You can always know more or even contact me through <a href="https://www.linkedi
 
 ## ✍ Articles
 
-<br />   
+<br />
+
 * Alan Turing’s principal contributions on Computational Environment (2022)
 * Cluster, Grid and Cloud Computing differences (2022)
 * The Culture of Organizational Cybersecurity (2022)
