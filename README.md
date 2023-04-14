@@ -116,10 +116,10 @@ You can always know more or even contact me through <a href="https://www.linkedi
 
 <br />
 
-* <a href="https://raw.githubusercontent.com/xanecu/xanecu/master/APT's%20detection%20with%20Machine%20Learning%20Applications%20(2022).pdf">Alan Turing’s principal contributions on Computational Environment (2022) </a>
+* Alan Turing’s principal contributions on Computational Environment (2022)
 * Cluster, Grid and Cloud Computing differences (2022)
 * The Culture of Organizational Cybersecurity (2022)
-* APT's detection with Machine Learning Applications (2022)
+* <a href="https://raw.githubusercontent.com/xanecu/xanecu/master/APT's%20detection%20with%20Machine%20Learning%20Applications%20(2022).pdf">APT's detection with Machine Learning Applications (2022) </a>
         
 <!--
 **xanecu/xanecu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
