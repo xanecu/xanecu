@@ -116,7 +116,7 @@ You can always know more or even contact me through <a href="https://www.linkedi
 
 <br />
 
-* Alan Turing’s principal contributions on Computational Environment (2022)
+* <a href="https://raw.githubusercontent.com/xanecu/xanecu/master/APT's%20detection%20with%20Machine%20Learning%20Applications%20(2022).pdf">Alan Turing’s principal contributions on Computational Environment (2022) </a>
 * Cluster, Grid and Cloud Computing differences (2022)
 * The Culture of Organizational Cybersecurity (2022)
 * APT's detection with Machine Learning Applications (2022)
