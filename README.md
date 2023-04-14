@@ -114,10 +114,10 @@ You can always know more or even contact me through <a href="https://www.linkedi
 
 ## ✍ Articles
 
-        * Alan Turing’s principal contributions on Computational Environment (2022)
-        * Cluster, Grid and Cloud Computing differences (2022)
-        * The Culture of Organizational Cybersecurity (2022)
-        * APT's detection with Machine Learning Applications (2022)
+* Alan Turing’s principal contributions on Computational Environment (2022)
+* Cluster, Grid and Cloud Computing differences (2022)
+* The Culture of Organizational Cybersecurity (2022)
+* APT's detection with Machine Learning Applications (2022)
         
 <!--
 **xanecu/xanecu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
