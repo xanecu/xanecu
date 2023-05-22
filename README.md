@@ -14,6 +14,7 @@
 
 <br/>
 <p align="center">--⚠️ Curently Maintaining the Repo ⚠️--</p>
+
 Hey! I'm Alexandre 😄, a portuguese/spanish graduated Software Developer and Computer Management guy from Lisbon (Portugal), currently taking my Master's degree on Cloud Computing. 
 
 I've always been passionate about technology and automation as a tool to solve problems for our society, believing that it is the best way to accomplish adaptive success on our evolution along the way, together with many other brilliant minds, as a team ⚡.
