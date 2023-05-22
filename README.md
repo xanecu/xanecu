@@ -13,7 +13,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/xanecu/xanecu/master/wave.gif" width="30px">
 
 <br/>
-<p align="center">--⚠️ Curently Maintaining the Repo ⚠️--</p>
+        <p align="center">--⚠️ <b>Curently Maintaining the Repo</b> ⚠️--</p>
 
 Hey! I'm Alexandre 😄, a portuguese/spanish graduated Software Developer and Computer Management guy from Lisbon (Portugal), currently taking my Master's degree on Cloud Computing. 
 
