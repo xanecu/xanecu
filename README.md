@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/alexandre-bastos-334b261b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/xanecu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     <a href="mailto:xanecu@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     <a href="https://www.alex4bastos4.pt" ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
     <a href="discord://discordapp.com/users/xanecu#8864"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -19,7 +19,7 @@ Hey! I'm Alexandre 😄, a portuguese/spanish graduated Software Developer and C
 
 I've always been passionate about technology and automation as a tool to solve problems for our society, believing that it is the best way to accomplish adaptive success on our evolution along the way, together with many other brilliant minds, as a team ⚡.
 
-You can always know more or even contact me through <a href="https://www.linkedin.com/in/alexandre-bastos-334b261b0/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/></a> or <a href="mailto:xanecu@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20" height="20"/></a> .
+You can always know more or even contact me through <a href="https://www.linkedin.com/in/xanecu/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/></a> or <a href="mailto:xanecu@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20" height="20"/></a> .
 
 <br/>
 
